@@ -1,6 +1,6 @@
 Mis Notas Favoritas
 
-<img src="/screanshost/bienvenida.png" alt="My cool logo"/>
+<img src="../../screanshost/bienvenida.png" alt="My cool logo"/>
 ![main](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 Sistema CRUD

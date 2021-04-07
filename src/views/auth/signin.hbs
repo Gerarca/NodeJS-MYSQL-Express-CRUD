@@ -1,0 +1,39 @@
+<div class="container p-4">
+    <div class="row">
+        <div class="col-md-4 mx-auto">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h3>Iniciar Session</h3>
+                </div>
+                <div class="card-body">
+                    <img class="card-img-top mx-auto m-2 rounded-circle w-50" src="/img/logo.png" alt="logo" />
+                    <form action="/signin" method="POST">
+                        <div class="form-group">
+                            <input 
+                                type="text"
+                                name="username"
+                                placeholder="Ingrese un nombre de usuario"
+                                class="form-control"
+                                required
+                            />
+                        </div>  
+                        <div class="form-group">
+                            <input 
+                                type="password"
+                                name="password"
+                                placeholder="Ingrese una Contraseña"
+                                class="form-group col-md-12"
+                                required
+                            />
+                        </div>    
+                        <div class="form-group">
+                            <button class="btn btn-success btn-block">
+                                Iniciar Session
+                            </button>
+                        </div>                                         
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

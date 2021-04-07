@@ -1,6 +1,6 @@
 Mis Notas Favoritas
 
-<img src="./screanshost/bienvenida.png" alt="My cool logo"/>
+<img src="https://github.com/Gerarca/NodeJS-MYSQL-Express-CRUD/blob/main/screanshots/bienvenida.png" alt="My cool logo"/>
 ![main](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 Sistema CRUD
